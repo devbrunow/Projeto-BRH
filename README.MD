@@ -1,17 +1,7 @@
  # Projeto BRH
 
-<<<<<<< HEAD
 ~ 1. Visão do produto
 O projeto BRH é um sistema de gestão de recursos humanos. Seu objetivo é permitir a gestão dos colaboradores e departamentos da empresa. Com isso, conseguiremos futuramente dimensionar melhor a força de trabalho necessária em cada projeto pela alocação exata de colaboradores necessários em cada um.
-
-~ 2. Classificação de atividades
-As atividades são classificadas em três categorias no BRH:
-=======
-
-O projeto BRH é um sistema de gestão de recursos humanos. Seu objetivo é permitir a gestão dos colaboradores e departamentos da empresa. Com isso, 
-conseguiremos futuramente dimensionar melhor a força de trabalho necessária em cada projeto pela alocação exata de colaboradores necessários em cada um.
->>>>>>> ab9da5b81811598e87bf0bb3100246e211967620
-
 
 
   <h2>Entidades</h2>  
